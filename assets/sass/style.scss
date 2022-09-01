@@ -6,16 +6,39 @@
 body{
     background-color: #a38bdb;
 
-    .main-box{
+    .container.main-box{
         width: 100%;
         height: 100vh;
         display: flex;
         justify-content: center;
         align-items: center;
         flex-direction: column;
+        padding: 0px;
 
         
     }
 
+   
+   
+
+  
+
 
 }
+
+.second-box{
+   
+    padding: 0px ;
+    background-color: bisque;
+    
+
+
+}
+
+
+#title{
+    margin: 0px;
+    background-color: rgb(199, 175, 146);
+   
+    
+   }
